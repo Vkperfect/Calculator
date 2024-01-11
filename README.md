@@ -1,2 +1,2 @@
 # Calculator
-A feeatured calculator using React
+A featured calculator using React
